@@ -14,3 +14,4 @@ I love the entire process of developing creative and create solutions to the cha
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> </p>
+💬 If you have any questionfeedback, please do not hesitate to reach out to me :)
