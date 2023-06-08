@@ -10,3 +10,7 @@ I love the entire process of developing creative and create solutions to the cha
 
 <h3 align="left">🌱 I'm currently learning:</h3>
 <p align="left"> <a href="https://www.javascript.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> </p>
