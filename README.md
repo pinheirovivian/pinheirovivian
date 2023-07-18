@@ -4,9 +4,7 @@ I love the entire process of developing creative and create solutions to the cha
 
 <h3 align="left">⚡ Languagens and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.linux.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>  
-<a href="https://www.git.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.github.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="github" width="40" height="40"/> </a> </p>
+ <a href="https://www.linux.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="left">🌱 I'm currently learning:</h3>
 <p align="left"> <a href="https://www.javascript.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
