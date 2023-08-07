@@ -1,7 +1,7 @@
 ![Banner para Linkedin Tecnologia em Preto (3)](https://github.com/pinheirovivian/pinheirovivian/assets/117175958/7b1e63e8-183b-4ad2-9edf-da6fd01c7825)
 
 ### Hi there 👋
-I'm Vivian, a Dev JR Frontend Software. I love the entire process of developing creative and create solutions to the challenges.
+I'm Vivian, a Dev Jr Frontend Software. I love the entire process of developing creative and create solutions to the challenges.
 
 <h3 align="left">⚡ Languagens and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> 
