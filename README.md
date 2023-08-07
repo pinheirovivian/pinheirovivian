@@ -10,7 +10,7 @@ I love the entire process of developing creative and create solutions to the cha
 <p align="left"> <a href="https://www.javascript.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.react.dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.html.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a>
-<a <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> </p>
+<a href="https://www.developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> </p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
