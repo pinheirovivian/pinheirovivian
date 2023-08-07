@@ -1,4 +1,4 @@
-[![Banner para Linkedin Tecnologia em Preto (2)](https://github.com/pinheirovivian/pinheirovivian/assets/117175958/33a0b7bc-c8bd-4b43-9df2-ffb7425aaa79)
+![Banner para Linkedin Tecnologia em Preto (2)](https://github.com/pinheirovivian/pinheirovivian/assets/117175958/33a0b7bc-c8bd-4b43-9df2-ffb7425aaa79)
 ### Hi there, I'm Vivian 👋
 I love the entire process of developing creative and create solutions to the challenges
 
