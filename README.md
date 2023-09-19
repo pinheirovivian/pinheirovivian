@@ -1,20 +1,24 @@
-![Banner para Linkedin Tecnologia em Preto (3)](https://github.com/pinheirovivian/pinheirovivian/assets/117175958/7b1e63e8-183b-4ad2-9edf-da6fd01c7825)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vivian+Pinheiro;I'm+23+years+old;I'm+from+Brazil;I'm+a+Systems+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Hi there 👋
-I'm Vivian, a Dev Jr Frontend Software. I love the entire process of developing creative and create solutions to the challenges.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pinheirovivian&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">⚡ Languagens and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.linux.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a> </p>
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinheirovivian&layout=compact&hide_border=true&title_color=DA70D6&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-<h3 align="left">🌱 I'm currently learning:</h3>
-<p align="left"> <a href="https://www.javascript.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.react.dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.html.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> </p>
+### Contact Me:
+<div> 
+<a href = "mailto:vivianpinheirome@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vivian-mpinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vivian-mpinheiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> </p>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me :)
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
