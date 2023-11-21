@@ -19,12 +19,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Styled Components](https://img.shields.io/badge/styledcomponents-0D1117?style=for-the-badge&logo=styledcomponents&logoColor=ffdd54)&nbsp;
+![Sass](https://img.shields.io/badge/sass-0D1117?style=for-the-badge&logo=sass&logoColor=ffdd54)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=ffdd54)&nbsp;
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
 
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react.native&labelColor=0D1117)&nbsp;
 ![Vite.js](https://img.shields.io/badge/-Vite.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![AngularJS](https://img.shields.io/badge/AngularJS-0D1117?style=for-the-badge&logo=angularJS&logoColor=ffdd54)&nbsp;
 
 
 
