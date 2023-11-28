@@ -30,7 +30,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react.native&labelColor=0D1117)&nbsp;
 ![Vite.js](https://img.shields.io/badge/-Vite.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![AngularJS](https://img.shields.io/badge/AngularJS-0D1117?style=for-the-badge&logo=angularJS&logoColor=ffdd54)&nbsp;
+
 
 
 
