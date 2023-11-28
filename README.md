@@ -16,13 +16,14 @@
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styledcomponents-0D1117?style=for-the-badge&logo=styledcomponents&logoColor=ffdd54)&nbsp;
 ![Sass](https://img.shields.io/badge/sass-0D1117?style=for-the-badge&logo=sass&logoColor=ffdd54)&nbsp;
-![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=ffdd54)&nbsp;
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
+
 
 
 ### Studying in this moment:
